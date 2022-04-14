@@ -1,0 +1,11 @@
+fid,objectid,area,perimeter,greenway,greenway_i,name,acres,sqmiles,nhood,dpwdiv,shape_leng,date_resol,label,shape_length,shape_area
+,2,2064315.585,21532.10547,7,1,Spring Hill Spring Garden,47.3903545,0.07404743,,1,21532.10469,1981-06-29T00:00:00,Spring Hill / Spring Garden Greenway,,
+,23,1858946.715,31202.04492,0,4,Beechview Seldom Seen,42.67571512,0.0666808,Beechview,5,31202.04565,1985-07-15T00:00:00,Beechview - Seldom Seen Greenway,,
+,25,256683.3223,48166.9375,3,2,Hazelwood,5.89266182,0.00920728,Hazelwood,3,41209.88573,1983-03-28T00:00:00,Hazelwood Greenway,,
+,47,558135.1757,18576.34375,6,7,Perry South,12.81307181,0.02002042,Perry South,1,18576.34309,2010-03-02T00:00:00,Perry South Greenway,,
+,0,1201580.413,26922.01758,4,6,Moore,27.584601,0.04310094,Brookline,5,26922.01762,2006-10-20T00:00:00,Moore Greenway,,
+,24771,781376.5962,22569.24805,5,8,Observatory Hill Hollows,17.93801014,0.02802814,Perry North,1,22591.51801,2010-11-03T00:00:00,Observatory Hill Hollows Greenway,,
+,0,1523837.644,24508.02734,0,9,Allegheny River,34.98263864,0.05466037,,2,24508.02712,2011-03-08T00:00:00,Allegheny River Greenway,,
+,0,222644.7435,6321.647949,0,10,Oakcliffe,5.11124045,0.00798631,South Oakland,3,6321.648193,2011-04-06T00:00:00,Oakcliffe Greenway,,
+,0,1053815.261,55200.76563,0,11,Bigelow,24.19236631,0.03780057,,0,721.5002396,2012-05-11T00:00:00,Bigelow Greenway,,
+,,508394.1727,3822.361084,,12,Nine Mile Run,11.67117094,0.0182362,Squirrel Hill South,3,,2012-05-11T00:00:00,Nine Mile Run Greenway,,
