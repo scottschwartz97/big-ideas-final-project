@@ -20,4 +20,5 @@ We chose to focus our analysis of Pittsburgh's best neighborhood on the number o
 3. City of Pittsburgh Playing Fields(https://data.wprdc.org/dataset/playing-fields): data on playing fields in different Pittsburgh nerighborhoods
 4. City of Pittsburgh Greenways(https://data.wprdc.org/dataset/greenways): data on greenways in different Pittsburgh nerighborhoods
 
-Our respository features each individual's notebook and our combined notebook.
+Our respository features each individual's notebook and our combined notebook. Nathan covered the greenways and fields, while Adam covered 
+parks, and Scott covered playgrounds.
